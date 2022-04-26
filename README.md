@@ -37,7 +37,7 @@
   <h3 align="center"></h3>
 
   <p align="center">
-    An awesome README template to get a jumpstart into our project!
+    An awesome README to get a jumpstart into our project!
 
   </p>
 </div>
